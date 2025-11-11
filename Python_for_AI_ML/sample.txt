@@ -1,0 +1,3 @@
+Assalamu Alaikum
+This is sample.txt
+I am learing file handling in python
